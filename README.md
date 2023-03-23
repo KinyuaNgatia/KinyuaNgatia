@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/KinyuaNgatia1" target="blank"><img src="https://img.shields.io/twitter/follow/kinyuangatia?logo=twitter&style=for-the-badge" alt="kinyuangatia" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://remarkable-haupia-c527ef.netlify.app/](https://remarkable-haupia-c527ef.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://remarkable-haupia-c527ef.netlify.app/)
 
 - 💬 Ask me about **Python, Kali Linux, Penetration Testing**
 
@@ -17,6 +17,8 @@
 <p align="left">
 <a href="https://twitter.com/KinyuaNgatia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KinyuaNgatia1" height="30" width="40" /></a>
 <a href="https://instagram.com/kinyuangatia_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kinyuangatia_ke" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/best-boy-a403bb26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="kinyuangatia_ke" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100088052267972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinyuangatia_ke" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
