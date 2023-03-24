@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Kali Linux, Penetration Testing**
 
-- 📫 How to reach me **kinyuangatia@hotmail.com**
+- 📫 How to reach me **kinyuangatia001@hotmail.com**
 
 - ⚡ Fun fact **Nothing Good Comes Easy!**
 
