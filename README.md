@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/KinyuaNgatia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KinyuaNgatia1" height="30" width="40" /></a>
 <a href="https://instagram.com/kinyuangatia_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kinyuangatia_ke" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/best-boy-a403bb26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinyuangatia_ke" height="30" width="40" /></a>
+<a href="https://ke.linkedin.com/in/brian-kinyua-a403bb26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinyuangatia_ke" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100088052267972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinyuangatia_ke" height="30" width="40" /></a>
 </p>
 
