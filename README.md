@@ -7,7 +7,7 @@
 
 - Have a look at my [Resume](https://docs.google.com/document/d/1X15OkW3p64JSgRThDC9YthmDMSzTl8Ll/edit)
 
-- 👨‍💻 All of my projects are available at  my [Portfolio]([https://briankinyua.netlify.app](https://briankinyua.netlify.app)/)
+- 👨‍💻 All of my projects are available at  my [Portfolio](https://briankinyua.netlify.app)
 
 - 💬 Ask me about **Python, Kali Linux, Penetration Testing**
 
